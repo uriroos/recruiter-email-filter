@@ -17,6 +17,8 @@ This repo won't fix all of your problems, but it will filter out messages of rec
 ### Do you hate recruiters?
 No, I certainly don't hate them. We even work with a selected few (yes, yes, this makes me also part of the problem). However, my mailbox tends to explode if I don't filter their drip campaigns out of my inbox. 
 
+As a famous programmer once said: "If every recruiter learned to code we wouldn't have this problem". -TL
+
 ## Implementing the list
 No automatic NPM install/extensions here (yet) unfortunately. 
 
@@ -28,7 +30,7 @@ No automatic NPM install/extensions here (yet) unfortunately.
 5. Select the [gmail-mark-as-read-and-archive.xml](uriroos/recruiter-email-filter/clients-filters/gmail-mark-as-read-and-archive.xml) file
 
 ## Pull requests
-Have more domains to add to the list? Want to add filters for other e-mail clients? Did you add an extension or any other ideas? I am open for pull requests that add more recruiter filter awesomeness. **Just be aware to never include a full address or share any Personally Identifiable Information.**
+Have more domains to add to the list? Want to add filters for other e-mail clients? Did you add an extension or do you have any other ideas? I am open for pull requests that add more recruiter filter awesomeness. **Just be aware to never include a full address or share any Personally Identifiable Information.**
 
 ## Working at klikkie
 We are always looking for talented programmers. Take a look if you're into Typescript, SwiftUI, Kotlin and making people happy with their photos. Our current open roles:
