@@ -10,7 +10,7 @@ As an engineer, you have 3 problems in life:
 
 1. You're out of coffee
 2. Legacy code (hey, it could be your own code of last week)
-3. Recruiters.
+3. Recruiters
 
 This repo won't fix all of your problems, but it will filter out messages of recruiters. Do with it what you want: Auto-delete the messages, auto-reply with a bot that tells them what you are looking for or prioritize them in your inbox.
 
