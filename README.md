@@ -12,7 +12,7 @@ As an engineer, you have 3 problems in life:
 2. Legacy code (hey, it could be your own code of last week)
 3. Recruiters.
 
-This repo won't fix all of your problems, but it will filter out messages of recruiters. Do with it what you want: Auto-delete the messages, auto-reply with a bot that tells them what you are looking for, prioritize them in your inbox.
+This repo won't fix all of your problems, but it will filter out messages of recruiters. Do with it what you want: Auto-delete the messages, auto-reply with a bot that tells them what you are looking for or prioritize them in your inbox.
 
 ### Do you hate recruiters?
 No, I certainly don't hate them. We even work with a selected few (yes, yes, this makes me also part of the problem). However, my mailbox tends to explode if I don't filter their drip campaigns out of my inbox. 
